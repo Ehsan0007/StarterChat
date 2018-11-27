@@ -1,0 +1,3 @@
+rootProject.name = 'firebaseChat'
+
+include ':app'
